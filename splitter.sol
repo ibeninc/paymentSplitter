@@ -10,7 +10,6 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
  */
 
 /** -- add address share
-
  [20, 40, 40]
  */
 contract Splitter is PaymentSplitter {
